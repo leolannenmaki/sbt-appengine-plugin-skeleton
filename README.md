@@ -7,8 +7,8 @@ Usage
 -----
 
  $ sbt
-  > update
-  > dev-appserver-start
+ > update
+ > dev-appserver-start
 
 Point your browser to http://localhost:8080/ and you should see Hello, world
 
